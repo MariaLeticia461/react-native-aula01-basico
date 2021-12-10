@@ -9,7 +9,7 @@ const estiloItem = StyleSheet.create({
     },
 
     borda: {
-        backgroundColor: '#081a31',
+        backgroundColor: '#D2B48C',
         width: '80%',
         height: '35%',
         borderRadius: 10,
@@ -33,7 +33,7 @@ const estiloItem = StyleSheet.create({
         borderWidth: 2,
         borderWidth: 2,
         borderColor: '#e8f2e9',
-        backgroundColor: '#14417b',
+        backgroundColor: '#936138',
         justifyContent: 'center',
         alignItems: 'center',
     },

@@ -9,11 +9,11 @@ const RotasTab = () => {
     return(
         <Tab.Navigator 
         tabBarOptions={ {labelStyle: { fontSize: 24 },
-                        style: {backgroundColor: '#14417b'},
-                        activeTintColor: '#FFFFFF'} }
+                        style: {backgroundColor: '#936138'},
+                        activeTintColor: '#D2B48C'} }
         >
-        <Tab.Screen name="Inicial" component={RotasDrawer} />
-        <Tab.Screen name="Perfil" component={Perfil} />
+        <Tab.Screen name="Menu" component={RotasDrawer} />
+        <Tab.Screen name="Sobre Nós" component={Perfil} />
         </Tab.Navigator>
     );
 }

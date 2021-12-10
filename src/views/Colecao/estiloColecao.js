@@ -10,9 +10,9 @@ const estiloColecao = StyleSheet.create({
     },
 
     borda: {
-        backgroundColor: '#081a31',
+        backgroundColor: '#D2B48C',
         width: '80%',
-        height: '52%',
+        height: '55%',
         borderRadius: 10,
     },
 
@@ -33,7 +33,7 @@ const estiloColecao = StyleSheet.create({
         height: 40,
         borderWidth: 2,
         borderColor: '#e8f2e9',
-        backgroundColor: '#14417b',
+        backgroundColor: '#936138',
         justifyContent: 'center',
         alignItems: 'center',
     },

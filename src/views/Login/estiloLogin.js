@@ -7,7 +7,7 @@ const estiloLogin = StyleSheet.create ({
         alignItems: 'center',
     },
     borda: {
-        backgroundColor: '#081a31',
+        backgroundColor: '#D2B48C',
         width: '80%',
         height: 230,
         borderRadius: 10,
@@ -23,7 +23,7 @@ const estiloLogin = StyleSheet.create ({
 
 },
     campo: {
-        backgroundColor: '#dcedff',
+        backgroundColor: '#FFFFFF',
         fontSize: 18,
         marginLeft: 40,
         marginRight: 40,
@@ -41,7 +41,7 @@ const estiloLogin = StyleSheet.create ({
         height: 40,
         borderWidth: 2,
         borderColor: '#e8f2e9',
-        backgroundColor: '#14417b',
+        backgroundColor: '#936138',
         justifyContent: 'center',
         alignItems: 'center',
     },

@@ -7,9 +7,9 @@ const estiloInicial = StyleSheet.create({
         alignItems: 'center',
     },
     borda: {
-        backgroundColor: '#081a31',
+        backgroundColor: '#D2B48C',
         width: '80%',
-        height: '25%',
+        height: '30%',
         borderRadius: 10,
     },
     texto: {
@@ -28,7 +28,7 @@ const estiloInicial = StyleSheet.create({
         height: 40,
         borderWidth: 2,
         borderColor: '#e8f2e9',
-        backgroundColor: '#14417b',
+        backgroundColor: '#936138',
         justifyContent: 'center',
         alignItems: 'center',
     },
@@ -37,5 +37,11 @@ const estiloInicial = StyleSheet.create({
         color: '#FFFFFF',
         fontWeight: 'bold'
     },
+    paragrafo: {
+        fontSize: 15,
+        color: '#FFFFFF',
+        marginLeft: 10,
+        textAlign: "center",
+    }
 });
 export default estiloInicial;
